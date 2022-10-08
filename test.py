@@ -8,4 +8,3 @@ for i in range(M):
     timesteps = [attacktime for j in range(attacknum)]
     timeStepList.append(timesteps)
 print(timeStepList)
-print("test")
